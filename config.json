@@ -1,0 +1,5 @@
+{
+    "subscription_id": "06a1cf6d-be75-42c9-8148-ccdde9e7d1f7",
+    "resource_group": "stock-anomaly-rg",
+    "workspace_name": "stock-anomaly-ml-workspace"
+}
